@@ -31,29 +31,33 @@ def select_all_tasks(conn):
     :return:
     """
     cur = conn.cursor()
-    build="build"
+    experience=""
+    qualification=""
+    skills=""
     cur.execute(    """SELECT *,
         IF(
                 `experience` LIKE "{0}%",  20, 
             IF(`experience` LIKE "%{0}%", 10, 0)
         )
-        + IF(`skills` LIKE "%{0}%", 5,  0)
-        + IF(`qualification`         LIKE "%{0}%", 1,  0)
+        + IF(`skills` LIKE "%{1}%", 5,  0)
+        + IF(`qualification`         LIKE "%{2}%", 1,  0)
         AS `weight`
     FROM `qualifications`
     WHERE (
         `experience` LIKE "%{0}%" 
-        OR `skills` LIKE "%{0}%"
-        OR `qualification`         LIKE "%{0}%"
+        OR `skills` LIKE "%{1}%"
+        OR `qualification`         LIKE "%{2}%"
     )
     ORDER BY `weight` DESC
-    LIMIT 20""".format(build))
+    LIMIT 20""".format(build,skills,qualification))
 
 
     rows = cur.fetchall()
+
+    return rows
     # print(rows)
-    for row in rows:
-        print(row)
+    # for row in rows:
+    #     print(row)
 
 conn=create_connection("d.db")
 select_all_tasks(conn)
