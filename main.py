@@ -15,7 +15,7 @@ class input_data(BaseModel):
     # experience: str
     # keywords: str
 
-class Country(str, Enum):
+class Weight(str, Enum):
     one="1"
     five = "5"
     ten = "10"
@@ -84,8 +84,8 @@ conn=create_connection("d.db")
 
 
 @app.post("/")
-def get_something(experience:str,skills:str,qualification:str,experience_weight: Country = Country.twenty,skills_weight: Country = Country.five,qualification_weight: Country = Country.one):
-    # return {"country": experience.value}
+def Search(experience:str,skills:str,qualification:str,experience_weight: Weight = Weight.twenty,skills_weight: Weight = Weight.five,qualification_weight: Weight = Weight.one):
+    # return {"Weight": experience.value}
     return select_all_tasks(conn,experience,skills,qualification,experience_weight,skills_weight,qualification_weight)
 
      
