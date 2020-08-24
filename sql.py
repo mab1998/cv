@@ -1,6 +1,9 @@
 import sqlite3
 from sqlite3 import Error
 
+import mysql.connector
+from mysql.connector import Error
+
 def create_connection(db_file):
     """ create a database connection to the SQLite database
         specified by the db_file
@@ -8,12 +11,18 @@ def create_connection(db_file):
     :return: Connection object or None
     """
     conn = None
+    connection=None
     try:
-        conn = sqlite3.connect(db_file)
+        # conn = sqlite3.connect(db_file)
+
+        connection = mysql.connector.connect(host='localhost',
+                                         database='cv',
+                                         user='root',
+                                         password='')
     except Error as e:
         print(e)
 
-    return conn
+    return connection
 
 def select_all_tasks(conn):
     """
@@ -22,25 +31,27 @@ def select_all_tasks(conn):
     :return:
     """
     cur = conn.cursor()
+    build="build"
     cur.execute(    """SELECT *,
         IF(
-                `experience` LIKE "builder%",  20, 
-            IF(`experience` LIKE "%builder%", 10, 0)
+                `experience` LIKE "{0}%",  20, 
+            IF(`experience` LIKE "%{0}%", 10, 0)
         )
-        + IF(`skills` LIKE "%builder%", 5,  0)
-        + IF(`qualification`         LIKE "%builder%", 1,  0)
+        + IF(`skills` LIKE "%{0}%", 5,  0)
+        + IF(`qualification`         LIKE "%{0}%", 1,  0)
         AS `weight`
     FROM `qualifications`
     WHERE (
-        `experience` LIKE "%builder%" 
-        OR `skills` LIKE "%builder%"
-        OR `qualification`         LIKE "%builder%"
+        `experience` LIKE "%{0}%" 
+        OR `skills` LIKE "%{0}%"
+        OR `qualification`         LIKE "%{0}%"
     )
     ORDER BY `weight` DESC
-    LIMIT 20""")
+    LIMIT 20""".format(build))
+
 
     rows = cur.fetchall()
-
+    # print(rows)
     for row in rows:
         print(row)
 
