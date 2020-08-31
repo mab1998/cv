@@ -128,7 +128,7 @@ conn=create_connection("d.db")
 
 
 @app.post("/")
-def Search(keywords:str,experience_weight: int =20,skills_weight: int=30,qualification_weight: int=40,education_weight:int=10):
+def Search(keywords:List[str],experience_weight: int =20,skills_weight: int=30,qualification_weight: int=40,education_weight:int=10):
     # return {"Weight": experience.value}
     return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
 
