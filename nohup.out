@@ -1,0 +1,1536 @@
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [43425] using statreload
+INFO:     Started server process [43427]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     105.103.169.230:49634 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49634 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49659 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49659 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Detected file change in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43427]
+INFO:     Started server process [43515]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     105.103.169.230:49687 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49687 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49688 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49688 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.103.169.230:49690 - "POST /?experience=build&skills=build&qualification=build HTTP/1.1" 200 OK
+INFO:     128.14.134.170:54332 - "GET /Telerik.Web.UI.WebResource.axd?type=rau HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:50048 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     102.165.30.17:62798 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     71.6.232.4:35116 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:36188 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:53838 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     154.121.21.154:14016 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.21.154:14016 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     180.149.125.163:56729 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     83.97.20.29:37433 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     178.93.38.216:37346 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:35402 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.150.189.165:55354 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+INFO:     45.165.66.110:38507 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:57282 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     162.62.20.238:56088 - "GET / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:42398 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.39.11.105:50172 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:39188 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     105.108.77.52:49483 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.77.52:49483 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     191.232.236.62:37084 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.150.189.165:41638 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+INFO:     103.78.12.27:40021 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     139.162.111.98:56044 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     139.155.70.150:44756 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     139.155.70.150:33890 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     139.155.70.150:57814 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     139.155.70.150:58702 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:40898 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.150.189.165:38142 - "GET /config/getuser?index=0 HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:59648 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:41662 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     128.14.133.58:53694 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     192.241.227.53:48866 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     216.218.206.69:41378 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     92.6.150.115:46906 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:54806 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     141.98.10.181:57563 - "GET /vicidial/admin.php?ADD=140000000000 HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:57142 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     95.78.127.133:34347 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     61.219.11.153:64149 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:43954 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     111.118.154.225:46235 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.64.208.88:34444 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     109.191.190.106:33498 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:40430 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:36376 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:45012 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:46674 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     93.174.93.91:50946 - "GET /config/getuser?index=0 HTTP/1.1" 404 Not Found
+INFO:     192.35.168.193:39606 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.193:45304 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     31.223.85.235:55070 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.128.41.50:57975 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     152.249.49.217:44787 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.61.128.66:47486 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:50850 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:51118 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:41390 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:35472 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.100.8.145:45131 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     191.100.8.145:45364 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:3232 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     192.187.122.50:51848 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     184.105.247.252:54944 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     178.32.197.89:51259 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:42760 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:53990 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:38950 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     109.94.119.152:38584 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     92.118.160.25:56635 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     85.96.240.104:51776 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:38864 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.241.226.168:58280 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     134.169.32.26:46022 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     80.82.78.85:51621 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     45.14.224.143:44880 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:54688 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:44528 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     196.52.43.131:45558 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     164.68.112.178:42873 - "GET / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     124.120.118.46:9999 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:52606 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     5.153.180.250:52204 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     103.254.96.194:50198 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     125.129.74.248:49975 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:35488 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     162.142.125.41:45148 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.41:53728 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     80.78.73.158:58873 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     154.221.31.143:51279 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:52822 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     143.255.242.118:2866 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.81.212.86:37170 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:37750 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:38980 - "GET /thinkphp/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:39554 - "GET /html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:40494 - "GET /public/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:41218 - "GET /TP/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:41824 - "GET /elrekt.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:42740 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:43208 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     172.81.212.86:44474 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     103.73.183.53:53952 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:39596 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:34656 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     168.181.120.21:40513 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:48824 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:42088 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     139.162.111.98:41384 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     177.66.88.15:48516 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:49534 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     89.208.196.49:57274 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     89.208.196.49:57298 - "GET /HNAP1/ HTTP/1.1" 404 Not Found
+INFO:     183.136.225.45:28369 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     216.218.206.66:51666 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:36516 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     104.244.79.181:54926 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:43454 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     213.16.168.46:53953 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     139.162.79.87:39350 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:48032 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     103.24.106.51:57737 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     165.22.237.121:1132 - "GET /QUERY/en-us/msdn/ HTTP/1.1" 404 Not Found
+INFO:     180.30.70.53:62994 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     180.30.70.53:62995 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:45618 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:11476 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     193.118.53.194:57154 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     154.92.20.57:51471 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:39654 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     180.149.125.168:46549 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.241.235.180:57372 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     189.114.235.237:54222 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:41698 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     61.219.11.153:62593 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:57370 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:54938 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:37228 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:45920 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     87.228.20.222:49079 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     154.92.20.57:49712 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     180.244.233.28:12288 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.39:58030 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.39:36136 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:39274 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     91.193.5.58:48318 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.39.11.105:39274 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     154.121.18.87:14884 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.18.87:14884 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     109.248.58.238:41469 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:40170 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     193.118.53.210:54916 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     218.75.38.210:7901 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     184.105.247.196:10742 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:38994 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.241.226.128:52596 - "GET /manager/text/list HTTP/1.1" 404 Not Found
+INFO:     187.101.220.222:49649 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:42608 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:39238 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     187.60.145.49:53332 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     128.14.133.58:57298 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.243.55:60722 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:53436 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     162.243.130.97:43598 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:45588 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     189.141.138.43:45913 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.128:61392 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     5.188.210.227:48091 - "GET /echo.php HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /seeyon/htmlofficeservlet HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /secure/ContactAdministrators%21default.jspa HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /weaver/bsh.servlet.BshServlet HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /solr/ HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /console/login/LoginForm.jsp HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.144.207.37:8006 - "POST /axis2/axis2-admin/login HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:43410 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:39170 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:58624 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     46.160.119.41:34711 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     196.216.15.46:39128 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:52620 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.39.11.105:40798 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:55072 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     125.140.152.5:54609 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     128.14.134.170:41016 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     180.149.125.168:15226 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     83.97.20.29:42641 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     191.100.9.105:37976 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     79.164.59.221:49867 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     222.89.70.216:63495 - "POST /invoker/readonly HTTP/1.1" 404 Not Found
+INFO:     222.89.70.216:63188 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     222.89.70.216:63188 - "GET /index.action HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:52846 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     154.92.20.57:60066 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.241.238.209:59954 - "GET /hudson HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     168.232.13.218:58962 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     202.63.242.37:42238 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:44604 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     190.94.135.180:37975 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     190.94.135.180:38066 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:42592 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:42868 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     104.244.79.181:53800 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:59682 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     184.105.139.68:60146 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     193.118.53.194:52720 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     186.226.219.110:37261 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     196.52.43.129:48168 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     164.52.24.170:48165 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     151.0.49.105:3607 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     103.95.48.73:42049 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     79.51.239.117:49777 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     86.122.26.8:59842 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:53168 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:48678 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     196.52.43.129:49288 - "GET / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     139.162.79.87:49554 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:37762 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     91.210.204.177:56708 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:35404 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:60988 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:39630 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     222.245.49.4:38065 - "POST /GponForm/diag_Form?images/ HTTP/1.1" 404 Not Found
+INFO:     154.92.20.57:51407 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     78.188.187.15:42720 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     128.14.134.170:38908 - "GET /version HTTP/1.1" 404 Not Found
+INFO:     128.14.134.170:38986 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     177.54.88.110:52783 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:60614 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     190.248.74.174:30541 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     188.225.75.188:38052 - "GET /systemInfo HTTP/1.1" 404 Not Found
+INFO:     175.111.130.228:53003 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:46138 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     5.32.176.111:32803 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:33798 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:56102 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     113.122.139.105:52102 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     37.145.248.134:41089 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.39.11.105:36348 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.241.226.222:50332 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     201.202.10.26:32775 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     106.12.34.120:51092 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:52036 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:52268 - "GET /thinkphp/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:52892 - "GET /html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:53274 - "GET /public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:53742 - "GET /TP/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:53954 - "GET /elrekt.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:54426 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:56006 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     106.12.34.120:56130 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:38350 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.39.11.105:49948 - "GET /config/getuser?index=0 HTTP/1.1" 404 Not Found
+INFO:     128.14.134.134:47936 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:50542 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     176.43.128.2:47734 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:49570 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.35.168.203:39244 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.203:44866 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:50126 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:55194 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:5375 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     191.232.236.62:50724 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:38240 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     184.105.247.194:58268 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:60004 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     169.239.69.57:49864 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:46324 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     222.89.70.216:63831 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:46768 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     178.93.36.48:45392 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     181.192.19.100:42972 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     185.100.87.207:58465 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     202.52.58.254:43683 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:42250 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:42232 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:46262 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:36334 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:49910 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:35852 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.56:51476 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.56:57566 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     154.92.20.57:50986 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:50324 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.23.230.40:51159 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     110.43.48.229:52992 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     110.43.48.229:57270 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:33586 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     111.73.46.184:4934 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     119.28.93.204:64885 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.35.168.218:58732 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.218:55278 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.169.48:31102 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     103.233.122.52:36502 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     185.39.11.105:55810 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:42164 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     74.82.47.3:35862 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:46038 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     185.216.140.6:33434 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:48400 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.39.11.105:39660 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     105.108.65.87:44710 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.65.87:44710 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     103.113.105.130:36023 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Detected file change in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [43515]
+INFO:     Started server process [53473]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     105.108.65.87:45019 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.65.87:45019 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Detected file change in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [53473]
+Process SpawnProcess-4:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/subprocess.py", line 62, in subprocess_started
+    target(sockets=sockets)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 390, in run
+    loop.run_until_complete(self.serve(sockets=sockets))
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 397, in serve
+    config.load()
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/config.py", line 278, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/importer.py", line 20, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./main.py", line 131, in <module>
+    def Search(keywords:List[str],experience_weight: int =20,skills_weight: int=30,qualification_weight: int=40,education_weight:int=10):
+NameError: name 'List' is not defined
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [54138] using statreload
+INFO:     Started server process [54140]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     197.207.116.101:45238 - "GET /docs HTTP/1.1" 200 OK
+INFO:     197.207.116.101:45238 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     111.229.239.203:60342 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+None
+None
+None
+None
+None
+None
+None
+INFO:     197.207.116.101:45239 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+INFO:     40.84.238.168:50970 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.241.220.200:55778 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     192.35.168.219:33072 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.219:43908 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     195.200.244.134:44642 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:46318 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:40494 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     178.93.37.221:33925 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     105.108.165.49:46103 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:46103 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     105.108.165.49:46246 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:46247 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+WARNING:  Invalid HTTP request received.
+INFO:     154.121.49.114:51863 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.49.114:51863 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     154.121.49.114:51863 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [56440] using statreload
+INFO:     Started server process [56442]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     154.121.49.114:51805 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.49.114:51805 - "GET /openapi.json HTTP/1.1" 200 OK
+None
+INFO:     154.121.49.114:51804 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+None
+None
+None
+None
+None
+None
+None
+INFO:     154.121.49.114:51807 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+INFO:     154.121.49.114:51816 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.49.114:51817 - "GET /openapi.json HTTP/1.1" 200 OK
+None
+None
+None
+None
+None
+None
+None
+INFO:     154.121.49.114:51818 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:53294 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:50692 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.243.55:46054 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     134.209.232.5:64418 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     134.209.232.5:64418 - "POST / HTTP/1.1" 400 Bad Request
+INFO:     134.209.232.5:64418 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     102.68.17.213:41154 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     154.92.20.57:53379 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     34.72.49.120:61000 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     105.108.165.49:47615 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:47615 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.108.165.49:47616 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:47617 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:47626 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:47645 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:47646 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:47646 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.108.165.49:47644 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+WARNING:  Invalid HTTP request received.
+INFO:     105.108.165.49:48044 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:48044 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.108.165.49:48043 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:48047 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.108.165.49:48047 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     105.108.165.49:48046 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     105.108.165.49:48048 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/protocols/http/httptools_impl.py", line 390, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/applications.py", line 179, in __call__
+    await super().__call__(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/usr/local/lib/python3.8/dist-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 182, in app
+    raw_response = await run_endpoint_function(
+  File "/usr/local/lib/python3.8/dist-packages/fastapi/routing.py", line 135, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+  File "/usr/local/lib/python3.8/dist-packages/starlette/concurrency.py", line 34, in run_in_threadpool
+    return await loop.run_in_executor(None, func, *args)
+  File "/usr/lib/python3.8/concurrent/futures/thread.py", line 57, in run
+    result = self.fn(*self.args, **self.kwargs)
+  File "./main.py", line 134, in Search
+    return select_all_tasks(conn,keywords,experience_weight,skills_weight,qualification_weight,education_weight)
+  File "./main.py", line 53, in select_all_tasks
+    cur = conn.cursor()
+  File "/usr/local/lib/python3.8/dist-packages/mysql/connector/connection.py", line 809, in cursor
+    raise errors.OperationalError("MySQL Connection not available.")
+mysql.connector.errors.OperationalError: MySQL Connection not available.
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [60166] using statreload
+Process SpawnProcess-1:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/subprocess.py", line 62, in subprocess_started
+    target(sockets=sockets)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 390, in run
+    loop.run_until_complete(self.serve(sockets=sockets))
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 397, in serve
+    config.load()
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/config.py", line 278, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/importer.py", line 20, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 783, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./main.py", line 129, in <module>
+    conn=create_connection("d.db")
+TypeError: create_connection() takes 0 positional arguments but 1 was given
+INFO:     Uvicorn running on http://0.0.0.0:8080 (Press CTRL+C to quit)
+INFO:     Started reloader process [60546] using statreload
+INFO:     Started server process [60548]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     154.121.54.226:42798 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.54.226:42798 - "GET /openapi.json HTTP/1.1" 200 OK
+None
+None
+None
+None
+None
+None
+None
+INFO:     154.121.54.226:42799 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+INFO:     154.121.54.226:42801 - "GET /docs HTTP/1.1" 200 OK
+INFO:     154.121.54.226:42801 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     78.150.74.124:60211 - "GET /docs HTTP/1.1" 200 OK
+INFO:     78.150.74.124:60211 - "GET /openapi.json HTTP/1.1" 200 OK
+None
+None
+None
+None
+None
+None
+None
+INFO:     78.150.74.124:60210 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:52586 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     104.244.79.181:53582 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     105.111.50.122:54064 - "GET /docs HTTP/1.1" 200 OK
+INFO:     105.111.50.122:54064 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+INFO:     85.105.135.130:41861 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     49.49.240.225:47849 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     45.83.65.185:20496 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     83.97.20.29:21035 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     71.6.232.4:55102 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.40:42166 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.40:52694 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     92.40.173.41:2176 - "GET /docs HTTP/1.1" 200 OK
+INFO:     92.40.173.41:2176 - "GET /openapi.json HTTP/1.1" 200 OK
+None
+None
+None
+None
+None
+None
+None
+INFO:     92.40.173.41:2180 - "POST /?experience_weight=20&skills_weight=30&qualification_weight=40&education_weight=10 HTTP/1.1" 200 OK
+INFO:     72.44.25.24:58423 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:54168 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     201.218.241.115:44792 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     180.149.125.168:38914 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     103.135.38.123:49476 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     222.186.20.50:56820 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:53212 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:37040 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     139.162.111.98:45602 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     170.82.36.15:57733 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:56972 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:49272 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     196.52.43.98:55572 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     49.234.64.188:52536 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:55048 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:56436 - "GET /thinkphp/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:57542 - "GET /html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:58920 - "GET /public/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:34994 - "GET /TP/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:36098 - "GET /elrekt.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:37186 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:38498 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     49.234.64.188:41880 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:41076 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:49848 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     86.122.151.223:34160 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     106.12.77.132:57860 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:57866 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:59118 - "GET /thinkphp/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:59152 - "GET /html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:59744 - "GET /public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:59782 - "GET /TP/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:60152 - "GET /elrekt.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:60388 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:60486 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     106.12.77.132:60974 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     192.241.198.146:40944 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     213.128.88.99:55670 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     88.238.212.32:34540 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:42872 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     94.41.202.221:34447 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:49224 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     184.105.247.194:50590 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     102.165.30.21:62058 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     178.216.26.18:36926 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:48728 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     45.224.164.98:50700 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:58992 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:37350 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     188.134.95.240:49766 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:59508 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.39.11.105:32954 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     124.89.119.6:41888 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     39.64.190.115:46344 - "GET /currentsetting.htm HTTP/1.1" 404 Not Found
+INFO:     121.57.226.212:52370 - "GET /scgi-bin/platform.cgi HTTP/1.1" 404 Not Found
+INFO:     175.184.165.147:56872 - "GET /cgi-bin/p2p.cgi?cmd=p2p.cgi&-action=get HTTP/1.1" 404 Not Found
+INFO:     1.202.113.237:10235 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     119.39.46.40:37598 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     221.213.75.244:41748 - "GET /cgi-bin/webproc HTTP/1.1" 404 Not Found
+INFO:     112.193.171.107:46066 - "GET /webaccess/index.php HTTP/1.1" 404 Not Found
+INFO:     113.58.225.26:50498 - "GET /HNAP1/ HTTP/1.1" 404 Not Found
+INFO:     113.57.56.201:55474 - "GET /common/info.cgi HTTP/1.1" 404 Not Found
+INFO:     123.245.24.62:60764 - "GET /hnap/hnap_service HTTP/1.1" 404 Not Found
+INFO:     121.28.84.83:37778 - "GET /stssys.htm HTTP/1.1" 404 Not Found
+INFO:     111.33.20.68:41646 - "GET /index.asp HTTP/1.1" 404 Not Found
+INFO:     1.202.114.225:10755 - "GET /login.htm HTTP/1.1" 404 Not Found
+INFO:     175.152.110.95:50588 - "GET /webpages/login.html HTTP/1.1" 404 Not Found
+INFO:     113.58.244.38:55132 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     125.84.237.205:60180 - "GET /cgi-bin/dispatcher.cgi?cmd=0 HTTP/1.1" 404 Not Found
+INFO:     110.177.181.208:36418 - "GET /cgi-bin/login.asp HTTP/1.1" 404 Not Found
+INFO:     101.249.63.0:41462 - "GET /rpAuth.html HTTP/1.1" 404 Not Found
+INFO:     221.4.62.149:46086 - "GET /login.asp HTTP/1.1" 404 Not Found
+INFO:     113.128.104.127:51066 - "GET /login/login.html HTTP/1.1" 404 Not Found
+INFO:     60.13.6.231:55346 - "GET /usrlogin.asp HTTP/1.1" 404 Not Found
+INFO:     219.143.174.203:11185 - "GET /html/login.html HTTP/1.1" 404 Not Found
+INFO:     113.128.105.133:42384 - "GET /index_style.css HTTP/1.1" 404 Not Found
+INFO:     124.235.138.210:47666 - "GET /weblogin.htm HTTP/1.1" 404 Not Found
+INFO:     219.143.174.127:4158 - "GET /login.asp HTTP/1.1" 404 Not Found
+INFO:     60.186.194.2:57166 - "GET /admin/login.jsp HTTP/1.1" 404 Not Found
+INFO:     36.32.3.85:33476 - "GET /auth/login/ HTTP/1.1" 404 Not Found
+INFO:     61.131.202.150:39260 - "GET /client/login HTTP/1.1" 404 Not Found
+INFO:     120.0.8.2:43660 - "GET /upnp.jsp HTTP/1.1" 404 Not Found
+INFO:     49.118.203.67:17081 - "GET /cgi-bin/luci/web HTTP/1.1" 404 Not Found
+INFO:     110.177.179.82:53680 - "GET /login.asp HTTP/1.1" 404 Not Found
+INFO:     60.186.193.113:57778 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     182.119.36.232:17654 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     116.113.12.236:39898 - "GET /index.htm HTTP/1.1" 404 Not Found
+INFO:     125.72.95.213:45068 - "GET /images/favicon.ico HTTP/1.1" 404 Not Found
+INFO:     110.177.181.39:49152 - "GET /index.en-us.uil HTTP/1.1" 404 Not Found
+INFO:     222.94.140.222:55112 - "GET /request_para.cgi?parameter=netstate HTTP/1.1" 404 Not Found
+INFO:     121.57.230.54:59494 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     110.177.179.246:35124 - "GET /home/login.html HTTP/1.1" 404 Not Found
+INFO:     112.66.99.194:42234 - "GET /img/R1/favicon.ico HTTP/1.1" 404 Not Found
+INFO:     175.184.164.171:46308 - "GET /static/js/first.txt HTTP/1.1" 404 Not Found
+INFO:     223.166.74.16:50880 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     182.245.42.91:57240 - "GET /magis/ HTTP/1.1" 404 Not Found
+INFO:     123.245.24.168:33508 - "GET /common.js HTTP/1.1" 404 Not Found
+INFO:     1.202.112.231:12194 - "GET /home.asp HTTP/1.1" 404 Not Found
+INFO:     111.224.220.255:42964 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     120.85.110.187:48284 - "GET /cgi-bin/luci HTTP/1.1" 404 Not Found
+INFO:     222.79.49.103:53658 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     221.213.75.5:57932 - "GET /cgi-bin/user/Config.cgi?.cab&action=get&category=Account.* HTTP/1.1" 404 Not Found
+INFO:     123.145.9.57:33736 - "GET /cgi-bin/nobody/Machine.cgi?action=get_capability HTTP/1.1" 404 Not Found
+INFO:     49.118.203.38:11007 - "GET /current_config/passwd HTTP/1.1" 404 Not Found
+INFO:     36.32.3.85:43940 - "GET /system.ini?loginuse&loginpas HTTP/1.1" 404 Not Found
+INFO:     106.45.0.154:48752 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     119.118.9.14:49412 - "GET /cgi-bin/luci HTTP/1.1" 404 Not Found
+INFO:     220.250.10.70:55206 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:33704 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:34128 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:46264 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     134.169.32.26:57756 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:60210 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     103.104.182.198:44431 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:56708 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     180.149.125.172:5890 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:55116 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:60608 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     74.120.14.34:33714 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     74.120.14.34:48628 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:55618 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     180.253.77.191:33321 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:49658 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     46.43.115.148:34188 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     46.43.115.148:34189 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     46.43.115.148:34190 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     83.171.68.66:49686 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:35052 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:62137 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     191.232.243.55:43658 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     95.106.181.132:58840 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:52856 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:33178 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:54278 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:49534 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     104.244.79.181:44920 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:39846 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     184.105.247.196:55460 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:47614 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     78.183.22.22:38077 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     138.99.216.171:61000 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     88.238.133.128:43380 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     80.82.68.115:46698 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:45382 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     139.162.79.87:54246 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:54350 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:41826 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     176.120.206.217:39919 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     194.44.93.8:45606 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     193.118.53.202:34540 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     125.162.214.187:38198 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:46622 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     36.79.217.65:41480 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:36820 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     80.82.77.139:34194 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     80.82.77.139:35466 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     177.68.14.187:46107 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     95.139.108.66:39852 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:48180 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     167.248.133.51:48976 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.248.133.51:57788 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:41344 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:60186 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:42654 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:52066 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     164.68.112.178:40188 - "GET / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     77.242.28.100:55455 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     109.195.66.116:50909 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:37902 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     154.221.31.143:51395 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     80.82.77.240:64344 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     191.232.211.54:46260 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:47946 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:47462 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.35.169.48:40010 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     103.137.202.6:39172 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:35870 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:34222 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     139.162.111.98:51508 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.249.102.224:27283 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.248.133.33:48060 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.248.133.33:60270 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:33906 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     78.150.74.124:55144 - "GET /docs HTTP/1.1" 200 OK
+INFO:     78.150.74.124:55144 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     185.39.11.105:52930 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:39710 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     95.173.255.228:58119 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:49306 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     31.28.106.176:58186 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     74.82.47.2:9538 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:45526 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:44962 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     200.53.20.118:56128 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:53658 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:37696 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     192.241.225.58:39926 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     114.46.33.70:34719 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     114.46.33.70:34900 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:50980 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     128.14.134.134:37972 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.243.55:37682 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     74.120.14.52:57944 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     74.120.14.52:39642 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:46476 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:53434 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:48814 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.39.11.105:46034 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     104.244.79.181:60138 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:35964 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:59976 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     194.147.115.146:35276 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     103.131.16.76:40734 - "GET /setup.cgi?next_file=netgear.cfg&todo=syscmd&cmd=busybox&curpath=/&currentsetting.htm=1 HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:38358 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     154.221.31.143:56952 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     194.190.32.95:40660 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     178.237.135.249:44198 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.220:47636 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.220:33012 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:45494 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     103.68.43.57:53897 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:48636 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:55472 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     162.142.125.50:48548 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.50:58584 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:34680 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.239.242.158:56538 - "HEAD / HTTP/1.0" 405 Method Not Allowed
+INFO:     154.221.31.143:52393 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:46224 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     139.162.111.98:59112 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.211.54:55130 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     45.148.10.28:54622 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:38924 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     190.94.138.52:56823 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     190.94.138.52:56952 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:51560 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:38574 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     102.165.30.45:51603 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     49.156.33.45:8018 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.241.222.132:38338 - "GET /manager/text/list HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:51330 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:51558 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     178.151.83.166:47889 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:40730 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     154.221.31.143:61003 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:54452 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     203.130.214.84:35574 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:33726 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     85.105.34.95:51981 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     184.105.247.194:58294 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     118.24.121.69:43022 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:35160 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     45.148.10.28:59916 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+INFO:     125.72.95.172:24921 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     125.72.95.172:13333 - "GET /currentsetting.htm HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:20753 - "GET /scgi-bin/platform.cgi HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:11860 - "GET /cgi-bin/p2p.cgi?cmd=p2p.cgi&-action=get HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:12132 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:35002 - "GET /webaccess/index.php HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:19839 - "GET /common/info.cgi HTTP/1.1" 404 Not Found
+INFO:     27.224.137.34:49438 - "GET /hnap/hnap_service HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:43849 - "GET /index.asp HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:32991 - "GET /login.htm HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:27704 - "GET /webpages/login.html HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:37083 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:6125 - "GET /cgi-bin/dispatcher.cgi?cmd=0 HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:5236 - "GET /cgi-bin/login.asp HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:50465 - "GET /rpAuth.html HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:4450 - "GET /login.asp HTTP/1.1" 404 Not Found
+INFO:     36.32.3.118:62849 - "GET /login/login.html HTTP/1.1" 404 Not Found
+INFO:     175.184.164.145:41060 - "GET /weblogin.htm HTTP/1.1" 404 Not Found
+INFO:     175.184.164.145:62977 - "GET /login.asp HTTP/1.1" 404 Not Found
+INFO:     175.184.164.145:65113 - "GET /client/login HTTP/1.1" 404 Not Found
+INFO:     175.184.164.145:53385 - "GET /cgi-bin/luci/web HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:20615 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:17419 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:21286 - "GET /request_para.cgi?parameter=netstate HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:63505 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:26466 - "GET /home/login.html HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:47195 - "GET /chinese.js HTTP/1.1" 404 Not Found
+INFO:     125.82.243.162:19660 - "GET /img/R1/favicon.ico HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:46224 - "GET /static/js/first.txt HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:51222 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:62817 - "GET /magis/ HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:42692 - "GET /common.js HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:44568 - "GET /home.asp HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:56575 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:60821 - "GET /cgi-bin/luci HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:12104 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     220.200.161.19:25480 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     220.200.161.19:64341 - "GET /cgi-bin/user/Config.cgi?.cab&action=get&category=Account.* HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:53812 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     113.206.131.8:49438 - "GET /scgi-bin/platform.cgi HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:57511 - "GET /cgi-bin/p2p.cgi?cmd=p2p.cgi&-action=get HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:32362 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:37714 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:21980 - "GET /cgi-bin/webproc HTTP/1.1" 404 Not Found
+INFO:     113.206.131.8:16231 - "GET /webaccess/index.php HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:18664 - "GET /HNAP1/ HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:55932 - "GET /common/info.cgi HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:44926 - "GET /hnap/hnap_service HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:58145 - "GET /stssys.htm HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:27125 - "GET /index.asp HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:50210 - "GET /login.htm HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:62082 - "GET /webpages/login.html HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:57856 - "GET /login HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:36687 - "GET /cgi-bin/dispatcher.cgi?cmd=0 HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:29911 - "GET /cgi-bin/login.asp HTTP/1.1" 404 Not Found
+INFO:     171.34.176.225:58968 - "GET /rpAuth.html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     123.138.79.105:45931 - "GET /login/login.html HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:30857 - "GET /usrlogin.asp HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:48989 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:41548 - "GET /html/login.html HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:23086 - "GET /index_style.css HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:24809 - "GET /weblogin.htm HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:13433 - "GET /admin/login.jsp HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:62484 - "GET /auth/login/ HTTP/1.1" 404 Not Found
+INFO:     123.138.79.105:30289 - "GET /client/login HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:46189 - "GET /upnp.jsp HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:57516 - "GET /cgi-bin/luci/web HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:14987 - "GET /index.html HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:33459 - "GET /index.htm HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     223.166.74.105:32220 - "GET /images/favicon.ico HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:65457 - "GET /index.en-us.uil HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:10793 - "GET /request_para.cgi?parameter=netstate HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:20408 - "GET /login.html HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:16422 - "GET /home/login.html HTTP/1.1" 404 Not Found
+INFO:     223.166.74.105:20176 - "GET /chinese.js HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:65007 - "GET /img/R1/favicon.ico HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:42802 - "GET /static/js/first.txt HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:27455 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:46736 - "GET /magis/ HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:23025 - "GET /common.js HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:18869 - "GET /home.asp HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:18718 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:52567 - "GET /cgi-bin/luci HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:38345 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     113.57.96.3:15454 - "GET /cgi-bin/welcome.cgi HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:63782 - "GET /cgi-bin/user/Config.cgi?.cab&action=get&category=Account.* HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:41744 - "GET /cgi-bin/nobody/Machine.cgi?action=get_capability HTTP/1.1" 404 Not Found
+INFO:     113.57.96.3:41954 - "GET /current_config/passwd HTTP/1.1" 404 Not Found
+INFO:     222.94.212.131:52206 - "GET /system.ini?loginuse&loginpas HTTP/1.1" 404 Not Found
+INFO:     222.94.212.131:57667 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     222.94.212.131:11132 - "GET /cgi-bin/luci HTTP/1.1" 404 Not Found
+INFO:     222.94.212.131:16130 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     5.188.210.227:53203 - "GET /echo.php HTTP/1.1" 404 Not Found
+INFO:     5.188.210.227:59504 - "GET /echo.php HTTP/1.1" 404 Not Found
+INFO:     5.188.210.227:43541 - "GET /echo.php HTTP/1.1" 404 Not Found
+INFO:     41.215.244.66:56104 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     191.232.236.62:57676 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     81.207.70.129:51577 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     81.207.70.129:51782 - "GET /admin-scripts.asp HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:49794 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:35298 - "GET /TP/public/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:36144 - "GET /TP/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:36912 - "GET /thinkphp/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:37626 - "GET /html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:38552 - "GET /public/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:39266 - "GET /TP/html/public/index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:40208 - "GET /elrekt.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:41046 - "GET /index.php HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:41814 - "POST /users?page=&size=5 HTTP/1.1" 404 Not Found
+INFO:     62.234.6.68:42702 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     192.35.168.176:14028 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:58186 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:46244 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     83.97.20.29:23016 - "GET / HTTP/1.0" 405 Method Not Allowed
+INFO:     162.142.125.49:47380 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     162.142.125.49:58014 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     212.143.227.22:33242 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     212.143.227.22:33247 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:33922 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     180.149.125.165:6217 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:60962 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.236.62:44154 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:52226 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     146.196.121.32:42624 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.249.38.185:55293 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     180.125.81.58:33589 - "POST /tmUnblock.cgi HTTP/1.1" 404 Not Found
+INFO:     154.221.31.143:51963 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:44940 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     45.148.10.28:49706 - "POST /boaform/admin/formLogin HTTP/1.1" 404 Not Found
+INFO:     43.228.221.27:32916 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.236.62:38814 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     192.241.232.96:59696 - "GET /hudson HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:42882 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:49440 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     183.136.225.45:52433 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     92.118.161.25:51382 - "GET / HTTP/1.0" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     88.105.102.215:49675 - "GET /docs HTTP/1.1" 200 OK
+INFO:     88.105.102.215:49675 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     74.120.14.49:60898 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     74.120.14.49:43358 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:49214 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     191.232.211.54:39212 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+INFO:     167.248.133.36:44640 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     167.248.133.36:54988 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     216.218.206.66:43936 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     178.93.47.255:33199 - "GET / HTTP/1.1" 405 Method Not Allowed
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:46296 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     154.221.31.143:60060 - "GET /manager/html HTTP/1.1" 404 Not Found
+WARNING:  Invalid HTTP request received.
+WARNING:  Invalid HTTP request received.
+INFO:     40.84.238.168:36334 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.211.54:48452 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     40.84.238.168:48116 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     104.244.79.181:33462 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     185.137.233.213:51290 - "GET / HTTP/1.1" 405 Method Not Allowed
+INFO:     40.84.238.168:41498 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     191.232.243.55:45412 - "GET /manager/html HTTP/1.1" 404 Not Found
+INFO:     197.207.33.236:30272 - "GET /docs HTTP/1.1" 200 OK
+INFO:     197.207.33.236:30272 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  Detected file change in 'main.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [60548]
+Process SpawnProcess-2:
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/usr/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/subprocess.py", line 62, in subprocess_started
+    target(sockets=sockets)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 390, in run
+    loop.run_until_complete(self.serve(sockets=sockets))
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/main.py", line 397, in serve
+    config.load()
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/config.py", line 278, in load
+    self.loaded_app = import_from_string(self.app)
+  File "/usr/local/lib/python3.8/dist-packages/uvicorn/importer.py", line 20, in import_from_string
+    module = importlib.import_module(module_str)
+  File "/usr/lib/python3.8/importlib/__init__.py", line 127, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1014, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 916, in get_code
+  File "<frozen importlib._bootstrap_external>", line 846, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "./main.py", line 18
+    references:List[str],
+                        ^
+SyntaxError: invalid syntax
